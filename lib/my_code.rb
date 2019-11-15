@@ -1,5 +1,5 @@
 # My Code here....
-def mat_to_negativize(array)
+def map_to_negativize(array)
   new_arr []
   i = o
   while i < array.lenght do
